@@ -10,7 +10,7 @@ echo "<html>
   <head>
   </head>
   <body>
-    Zebbylion Njau
+    NancyLwambi
   </body>
 </html>" > /data/web_static/releases/test/index.html
 ln -sf /data/web_static/releases/test /data/web_static/current
